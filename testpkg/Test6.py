@@ -1,1 +1,1 @@
-# This to update git projevctc
+# This to updte and correct the project
